@@ -1,0 +1,3 @@
+*.pybak
+*.pylog
+.DS_store
