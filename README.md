@@ -1,2 +1,2 @@
 # CSUMB
-Assignment for California State University, Monterey Bay Courses
+Assignments for California State University, Monterey Bay Courses
