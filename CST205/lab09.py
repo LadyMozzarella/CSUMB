@@ -1,9 +1,9 @@
 """
-    Brittany Mazza
-    CST 205 Multimedia Design and Programming
-    
-    Lab #9: Introduction to Sampling
-    """
+Brittany Mazza
+CST 205 Multimedia Design and Programming
+
+Lab #9: Introduction to Sampling
+"""
 # Problem 1: 
 def clip(source, start, end):
   samplingRate = getSamplingRate(source)
